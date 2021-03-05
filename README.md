@@ -11,4 +11,3 @@
 -->
 
 
- <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ouznoreyni&repo=github-readme-stats&theme=material-palenight" />
