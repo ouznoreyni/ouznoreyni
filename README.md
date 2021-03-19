@@ -1,13 +1,17 @@
-### Hi there 👋i'm Ousmane DIOP a full stack web developer , specializiing in mostly JS, but also write Python, PHP and some other
-
-<!--
-**ouznoreyni/ouznoreyni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on a project money transfer at SONATEL ACADMY using angular , ionic and symfony
-- 🌱 I’m currently learning MERN stack
--  I’m looking for a Job as a full web Developer and mobile (React native and ionic)
-- 💬 Ask me about Programming and it system & network
-- 📫 How to reach me: ousmanediopp268@gmail.com
--->
 
 
+## Hi there, i'm Ousmane DIOP 
+
+A fullstack web developer specializiing in mostly JS, but also write JAVA, Python, PHP and some other, Senegal 🇸🇳
+
+
+<a href="https://twitter.com/ouznoreyni221" alt="Follow Me on Twitter"> 
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/ousmane-diop-5792a5170" alt="My LinkedIn"> 
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+## 🚀 Skills 🔝
+
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" /> 
