@@ -1,6 +1,6 @@
 
 
-## Hi there, i'm Ousmane DIOP  from Senegal 🇸🇳
+## Hi there, i'm Ousmane DIOP,  from Senegal 🇸🇳
 
 A fullstack web developer specializiing in mostly JS, but also write Python, PHP and some other stuff.
 
