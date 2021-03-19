@@ -15,3 +15,4 @@ A fullstack web developer specializiing in mostly JS, but also write JAVA, Pytho
 ## 🚀 Skills 
 
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><img src="https://img.shields.io/badge/Node.js-20232d?style=for-the-badge&logo=node.js&logoColor=white%22"/><img src="https://img.shields.io/badge/angular-20232d?style=for-the-badge&logo=angular&logoColor=red"/><img src="https://img.shields.io/badge/next.js-20232d?style=for-the-badge&logo=next.js&logoColor"/>
+<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
