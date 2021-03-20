@@ -19,5 +19,3 @@ A fullstack web developer specializiing in mostly JS, but also write Python, PHP
 
 <img src="https://img.shields.io/badge/PHP-fefefe?style=for-the-badge&logo=php&logoColor=474A8A"/> <img src="https://img.shields.io/badge/Symfony-fefefe?style=for-the-badge&logo=symfony&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/wordpress-fefefe?style=for-the-badge&logo=php&logoColor=21759b"/><img src="https://img.shields.io/badge/woocomerce-fefefe?style=for-the-badge&logo=php&logoColor=21759b"/>
-
