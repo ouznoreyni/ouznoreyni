@@ -24,5 +24,8 @@ A fullstack web developer specializiing in mostly JS and Java, but also write Py
 
 
 <img src="https://img.shields.io/badge/PHP-fefefe?style=for-the-badge&logo=php&logoColor=474A8A"/> <img src="https://img.shields.io/badge/Symfony-fefefe?style=for-the-badge&logo=symfony&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/docker-fefefe?style=for-the-badge&logo=docker&logoColor=blue"/>
+
 <img align="right" alt="GIF" src="https://github.com/ouznoreyni/ouznoreyni/blob/main/code.gif?raw=true" width="500" height="320" />
 
