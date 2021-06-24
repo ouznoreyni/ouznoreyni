@@ -33,7 +33,7 @@ A fullstack web developer specializiing in mostly JS and Python , but also write
 <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/ionic-fefefe?style=for-the-badge&logo=ionic&logoColor=blue" />
 
 ##  #Other tools: 
-   <img src="https://img.shields.io/badge/redux-fefefe?style=for-the-badge&logo=redux&logoColor=purple"/>  <img src="https://img.shields.io/badge/docker-fefefe?style=for-the-badge&logo=docker&logoColor=blue"/> <img src="https://img.shields.io/badge/bitbucket-fefefe?style=for-the-badge&logo=bitbucket&logoColor=blue"/> <img src="https://img.shields.io/badge/figma-green?style=for-the-badge&logo=figma&logoColor=fefefe"/> <img src="https://img.shields.io/badge/trello-fefefe?style=for-the-badge&logo=trello&logoColor=blue"/>
+   <img src="https://img.shields.io/badge/redux-fefefe?style=for-the-badge&logo=redux&logoColor=purple"/>  <img src="https://img.shields.io/badge/docker-fefefe?style=for-the-badge&logo=docker&logoColor=blue"/> <img src="https://img.shields.io/badge/bitbucket-fefefe?style=for-the-badge&logo=bitbucket&logoColor=blue"/> <img src="https://img.shields.io/badge/figma-green?style=for-the-badge&logo=figma&logoColor=fefefe"/> <img src="https://img.shields.io/badge/trello-fefefe?style=for-the-badge&logo=trello&logoColor=blue"/> <img src="https://img.shields.io/badge/heroku-fefefe?style=for-the-badge&logo=heroku&logoColor=000"/>
 
 
 <!---
