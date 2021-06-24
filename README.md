@@ -2,7 +2,7 @@
 
 ## Hi there, i'm Ousmane DIOP,  from Senegal 🇸🇳
 
-A fullstack web developer specializiing in mostly JS and Python , but also write Java, PHP and some other stuff.
+A fullstack web developer specializiing in mostly JS and Python , but also write PHP, Java and some other stuff.
 
 <a href="https://www.linkedin.com/in/ousmane-diop-5792a5170" target="_blank" alt="My LinkedIn"> 
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
