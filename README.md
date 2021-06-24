@@ -30,20 +30,12 @@ A fullstack web developer specializiing in mostly JS and Python , but also write
 
 <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
 
-
-   <img src="https://img.shields.io/badge/redux-fefefe?style=for-the-badge&logo=redux&logoColor=purple"/>
+##  #Other tools: 
+   <img src="https://img.shields.io/badge/redux-fefefe?style=for-the-badge&logo=redux&logoColor=purple"/>  <img src="https://img.shields.io/badge/docker-fefefe?style=for-the-badge&logo=docker&logoColor=blue"/> <img src="https://img.shields.io/badge/bitbucket-fefefe?style=for-the-badge&logo=bitbucket&logoColor=blue"/> <img src="https://img.shields.io/badge/figma-green?style=for-the-badge&logo=figma&logoColor=fefefe"/>
 
 <!---
 <img src="https://img.shields.io/badge/java-fefefe?style=for-the-badge&logo=java&logoColor=red"/> <img src="https://img.shields.io/badge/SPRING_BOOT-green?style=for-the-badge&logo=spring&logoColor=fefefe"/>
 -->
-
-
-
-
-
-
-<img src="https://img.shields.io/badge/docker-fefefe?style=for-the-badge&logo=docker&logoColor=blue"/> <img src="https://img.shields.io/badge/bitbucket-fefefe?style=for-the-badge&logo=bitbucket&logoColor=blue"/>  <img src="https://img.shields.io/badge/figma-green?style=for-the-badge&logo=figma&logoColor=fefefe"/>
-
 
 <img align="right" alt="GIF" src="https://github.com/ouznoreyni/ouznoreyni/blob/main/code.gif?raw=true" width="500" height="320" />
 
