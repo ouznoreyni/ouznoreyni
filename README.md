@@ -26,8 +26,8 @@ A fullstack web developer specializiing in mostly JS and Python , but also write
 
 <img src="https://img.shields.io/badge/PHP-fefefe?style=for-the-badge&logo=php&logoColor=474A8A"/> <img src="https://img.shields.io/badge/Symfony-fefefe?style=for-the-badge&logo=symfony&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/docker-fefefe?style=for-the-badge&logo=docker&logoColor=blue"/>
-<img src="https://img.shields.io/badge/bitbucket-fefefe?style=for-the-badge&logo=bitbucket&logoColor=blue"/>
+<img src="https://img.shields.io/badge/docker-fefefe?style=for-the-badge&logo=docker&logoColor=blue"/> <img src="https://img.shields.io/badge/bitbucket-fefefe?style=for-the-badge&logo=bitbucket&logoColor=blue"/>  <img src="https://img.shields.io/badge/figma-green?style=for-the-badge&logo=figma&logoColor=fefefe"/>
+
 
 <img align="right" alt="GIF" src="https://github.com/ouznoreyni/ouznoreyni/blob/main/code.gif?raw=true" width="500" height="320" />
 
