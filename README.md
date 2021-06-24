@@ -10,6 +10,9 @@ A fullstack web developer specializiing in mostly JS and Python , but also write
 <a href="https://twitter.com/ouznoreyni221" target="_blank" alt="Follow Me on Twitter"> 
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
+<a href="mailto:ousmanediop1297@gmail.com" target="_blank" alt="Send me a email"> 
+    <img src="https://img.shields.io/badge/gmail-fefefe?style=for-the-badge&logo=gmail&logoColor=fff" />
+</a>
 
 ## 🚀 Languages and Tools:
 
