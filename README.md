@@ -11,7 +11,7 @@ A fullstack web developer specializiing in mostly JS and Python , but also write
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="mailto:ousmanediop1297@gmail.com" target="_blank" alt="Send me a email"> 
-    <img src="https://img.shields.io/badge/gmail-fefefe?style=for-the-badge&logo=gmail&logoColor=fff" />
+    <img src="https://img.shields.io/badge/gmail-fefefe?style=for-the-badge&logo=gmail&logoColor=yellow" />
 </a>
 
 ## 🚀 Languages and Tools:
