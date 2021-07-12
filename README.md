@@ -27,9 +27,7 @@ A fullstack web developer specializiing in mostly JS and Python , but also write
 
 ##  #Frontend: 
 
-<img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/angular-red?style=for-the-badge&logo=angular&logoColor=white"/>  <img src="https://img.shields.io/badge/next.js-303030?style=for-the-badge&logo=next.js&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/bootstrap-fefefe?style=for-the-badge&logo=bootstrap&logoColor=blue" /> <img src="https://img.shields.io/badge/tailwind-fefefe?style=for-the-badge&logo=tailwind&logoColor=blue" />
+<img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/angular-red?style=for-the-badge&logo=angular&logoColor=white"/>  <img src="https://img.shields.io/badge/next.js-303030?style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/bootstrap-fefefe?style=for-the-badge&logo=bootstrap&logoColor=blue" /> <img src="https://img.shields.io/badge/tailwind-fefefe?style=for-the-badge&logo=tailwind&logoColor=blue" />
 
 ##  #Mobile: 
 
