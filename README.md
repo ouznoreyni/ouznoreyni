@@ -3,7 +3,7 @@
 ## Hi there, i'm Ousmane DIOP,  from Senegal 🇸🇳
 
 A fullstack web developer specializiing in mostly JS and Python , but also write PHP, Java and some other stuff.
-
+<p align="center">
 <a href="https://www.linkedin.com/in/ousmane-diop-5792a5170" target="_blank" alt="My LinkedIn"> 
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -13,7 +13,7 @@ A fullstack web developer specializiing in mostly JS and Python , but also write
 <a href="mailto:ousmanediop1297@gmail.com" target="_blank" alt="Send me a email"> 
     <img src="https://img.shields.io/badge/gmail-fefefe?style=for-the-badge&logo=gmail&logoColor=yellow" />
 </a>
-
+</p>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 🚀 Languages and Tools:
 
 ##  #Languages: 
