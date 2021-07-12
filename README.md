@@ -16,7 +16,7 @@ A fullstack web developer specializiing in mostly JS and Python , but also write
 
 ## 🚀 Languages and Tools:
 
-##  #Languages: 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;##  #Languages: 
 
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />   <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=FFD43B" />  <img src="https://img.shields.io/badge/PHP-fefefe?style=for-the-badge&logo=php&logoColor=474A8A"/>
 
