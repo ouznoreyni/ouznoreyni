@@ -28,7 +28,7 @@ A fullstack web developer specializing in mostly JS and Python  , but also write
 
 ##  Backend: 
 
-<code><img src="https://img.shields.io/badge/Node.js-303030?style=for-the-badge&logo=node.js&logoColor=white%22"/> <img src="https://img.shields.io/badge/express-fefefe?style=for-the-badge&logo=express&logoColor=000"/> <img src="https://img.shields.io/badge/Springo%20Boot-303030?style=for-the-badge&logo=spring%20boot&logoColor=white%22"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> </code>
+<code><img src="https://img.shields.io/badge/Node.js-303030?style=for-the-badge&logo=node.js&logoColor=white%22"/> <img src="https://img.shields.io/badge/express-fefefe?style=for-the-badge&logo=express&logoColor=000"/>  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> </code>
 
 ##  Frontend: 
 
