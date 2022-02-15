@@ -22,6 +22,7 @@ A fullstack web developer specializing in mostly JS and Java  , but also write P
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 🚀 Languages and Tools:
 
+<!--
 ##  Languages: 
 
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />   <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=FFD43B" />  <img src="https://img.shields.io/badge/Java-fefefe?style=for-the-badge&logo=java&logoColor=ec0000"/>
@@ -39,7 +40,7 @@ A fullstack web developer specializing in mostly JS and Java  , but also write P
 
 ##  Other tools: 
    <img src="https://img.shields.io/badge/redux-fefefe?style=for-the-badge&logo=redux&logoColor=purple"/>  <img src="https://img.shields.io/badge/docker-fefefe?style=for-the-badge&logo=docker&logoColor=blue"/> <img src="https://img.shields.io/badge/bitbucket-fefefe?style=for-the-badge&logo=bitbucket&logoColor=blue"/> <img src="https://img.shields.io/badge/figma-fefefe?style=for-the-badge&logo=figma&logoColor=green"/> <img src="https://img.shields.io/badge/trello-fefefe?style=for-the-badge&logo=trello&logoColor=blue"/> <img src="https://img.shields.io/badge/heroku-fefefe?style=for-the-badge&logo=heroku&logoColor=000"/> <img src="https://img.shields.io/badge/wordpress-fefefe?style=for-the-badge&logo=wordpress&logoColor=000"/>
-
+-->
 
 <!---
 <img src="https://img.shields.io/badge/java-fefefe?style=for-the-badge&logo=java&logoColor=red"/> <img src="https://img.shields.io/badge/SPRING_BOOT-green?style=for-the-badge&logo=spring&logoColor=fefefe"/>
