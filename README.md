@@ -45,27 +45,6 @@ A fullstack web developer specializing in mostly JS and Java  , but also write P
 <!---
 <img src="https://img.shields.io/badge/java-fefefe?style=for-the-badge&logo=java&logoColor=red"/> <img src="https://img.shields.io/badge/SPRING_BOOT-green?style=for-the-badge&logo=spring&logoColor=fefefe"/>
 -->
-## DEV STACK 🧰
-
-**Programming Languages**
-
-<img align="center" alt="JS" title="JS" width="30px" height="30px" src="https://cdn.svgporn.com/logos/javascript.svg">|<img align="center" title="TS" alt="TS" width="30px" height="30px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">|<img align="center" title="PHP" alt="PHP" width="30px" height="30px" src="https://cdn.svgporn.com/logos/php.svg" />|<img align="center" title="Dart" alt="Dart" width="30px" height="30px" src="https://cdn.svgporn.com/logos/dart.svg" />
-|--|--|--|--|
-
-**Libraries and Frameworks**
-
-<img align="center" title="Laravel" alt="Laravel" width="30px" height="30px" src="https://cdn.svgporn.com/logos/laravel.svg">|<img align="center" title="Ember" alt="Ember" width="30px" height="30px" src="https://cdn.svgporn.com/logos/ember-tomster.svg">
-|--|--|
-
-|<img align="center" title="Vue" alt="Vue" width="30px" height="30px" src="https://cdn.svgporn.com/logos/vue.svg">|<img align="center" title="Nuxt" alt="Nuxt" width="30px" height="30px" src="https://cdn.svgporn.com/logos/nuxt-icon.svg">|<img align="center" title="Vite" alt="Vite" width="30px" height="30px" src="https://cdn.svgporn.com/logos/vitejs.svg">|<img align="center" title="React" alt="React" width="30px" height="30px" src="https://cdn.svgporn.com/logos/react.svg">|<img align="center" title="Next" alt="Next" width="30px" height="30px" src="https://cdn.svgporn.com/logos/nextjs-icon.svg">|<img align="center" title="Svelte" alt="Svelte" width="30px" height="30px" src="https://cdn.svgporn.com/logos/svelte-icon.svg">
-|--|--|--|--|--|--|
-
-<img align="center" title="Flutter" alt="Flutter" width="30px" height="30px" src="https://cdn.svgporn.com/logos/flutter.svg">|<img align="center" title="React Native" alt="Ionic" width="30px" height="30px" src="https://cdn.svgporn.com/logos/react.svg">|<img align="center" title="Bootstrap" alt="Bootstrap" width="30px" height="30px" src="https://cdn.svgporn.com/logos/bootstrap.svg">|<img align="center" title="Tailwind" alt="Tailwind" width="30px" height="30px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">|
-|--|--|--|--|
-
-**Tools**
-
-<img align="center" title="VsCode" alt="VsCode" width="30px" height="30px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">|<img align="center" title="Selenium" alt="Selenium" width="30px" height="30px" src="https://cdn.svgporn.com/logos/selenium.svg">|<img align="center" title="Jest" alt="Jest" width="30px" height="30px" src="https://cdn.svgporn.com/logos/jest.svg">|<img align="center" title="Vercel" alt="Vercel" width="30px" height="30px" src="https://cdn.svgporn.com/logos/vercel-icon.svg">|<img align="center" title="Heroku" alt="Heroku" width="30px" height="30px" src="https://cdn.svgporn.com/logos/heroku-icon.svg">|<img align="center" title="Docker" alt="Docker" width="30px" height="30px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
 
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  <p>
