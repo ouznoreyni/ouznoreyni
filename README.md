@@ -20,7 +20,7 @@ A fullstack web developer specializing in mostly JS and Java  , but also write P
 </a>
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 🚀 Languages and Tools:
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 🚀  My favorite tools 🛠️:
 
 <!--
 ##  Languages: 
@@ -45,7 +45,6 @@ A fullstack web developer specializing in mostly JS and Java  , but also write P
 <!---
 <img src="https://img.shields.io/badge/java-fefefe?style=for-the-badge&logo=java&logoColor=red"/> <img src="https://img.shields.io/badge/SPRING_BOOT-green?style=for-the-badge&logo=spring&logoColor=fefefe"/>
 -->
-## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
 
