@@ -49,7 +49,7 @@ A fullstack web developer specializing in mostly JS and Java  , but also write P
 ### 👨‍💻 Programming languages
 
 <p>
-<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/Java-fefefe?style=for-the-badge&logo=java&logoColor=ec0000"/>  <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=FFD43B" />  
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/Java-fefefe?style=for-the-badge&logo=java&logoColor=ec0000"/>  <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=FFD43B" />  <img src="https://img.shields.io/badge/php-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=FFD43B" />  
 </p>
 
 ### 🧰 Frameworks and libraries
