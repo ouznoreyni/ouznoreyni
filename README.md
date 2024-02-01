@@ -22,36 +22,12 @@ A fullstack web developer specializing in mostly Java and Javascript  , but also
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 🚀  My favorite tools 🛠️:
 
-<!--
-##  Languages: 
-
-<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />   <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=FFD43B" />  <img src="https://img.shields.io/badge/Java-fefefe?style=for-the-badge&logo=java&logoColor=ec0000"/>
-
-##  Backend: 
-
-<img src="https://img.shields.io/badge/Node.js-303030?style=for-the-badge&logo=node.js&logoColor=white%22"/>   <img src="https://img.shields.io/badge/springboot-white?style=for-the-badge&logo=springboot&logoColor=white%22"/>  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-##  Frontend: 
-
-<img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/angular-red?style=for-the-badge&logo=angular&logoColor=white"/>  <img src="https://img.shields.io/badge/next.js-303030?style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/bootstrap-fefefe?style=for-the-badge&logo=bootstrap&logoColor=blue" /> <img src="https://img.shields.io/badge/tailwind-fefefe?style=for-the-badge&logo=tailwind&logoColor=blue" />
-
-##  Mobile: 
-
-<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/ionic-fefefe?style=for-the-badge&logo=ionic&logoColor=blue" />
-
-##  Other tools: 
-   <img src="https://img.shields.io/badge/redux-fefefe?style=for-the-badge&logo=redux&logoColor=purple"/>  <img src="https://img.shields.io/badge/docker-fefefe?style=for-the-badge&logo=docker&logoColor=blue"/> <img src="https://img.shields.io/badge/bitbucket-fefefe?style=for-the-badge&logo=bitbucket&logoColor=blue"/> <img src="https://img.shields.io/badge/figma-fefefe?style=for-the-badge&logo=figma&logoColor=green"/> <img src="https://img.shields.io/badge/trello-fefefe?style=for-the-badge&logo=trello&logoColor=blue"/> <img src="https://img.shields.io/badge/heroku-fefefe?style=for-the-badge&logo=heroku&logoColor=000"/> <img src="https://img.shields.io/badge/wordpress-fefefe?style=for-the-badge&logo=wordpress&logoColor=000"/>
--->
-
-<!---
-<img src="https://img.shields.io/badge/java-fefefe?style=for-the-badge&logo=java&logoColor=red"/> <img src="https://img.shields.io/badge/SPRING_BOOT-green?style=for-the-badge&logo=spring&logoColor=fefefe"/>
--->
-
 ### 👨‍💻 Programming languages
 
 <p>
 <img src="https://img.shields.io/badge/Java-fefefe?style=for-the-badge&logo=java&logoColor=ec0000"/> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />   <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=FFD43B" />
 </p>
-
+### 👨🏽‍💻 Devops
 ### 🧰 Frameworks and libraries
 
 <p>
