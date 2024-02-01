@@ -31,7 +31,8 @@ A fullstack web developer specializing in mostly Java and Javascript  , but also
 ### 👨🏽‍💻 Devops
 
 <p>
-<img src="https://img.shields.io/badge/Kubernetes-fefefe?logo=Kubernetes" />
+<img src="https://img.shields.io/badge/docker-fefefe?logo=docker" /> <img src="https://img.shields.io/badge/Kubernetes-fefefe?logo=Kubernetes" />  <img src="https://img.shields.io/badge/ansible-d?logo=ansible" />
+
 </p>
 
 
