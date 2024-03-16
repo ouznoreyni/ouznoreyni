@@ -25,7 +25,7 @@ A fullstack web developer specializing in mostly Java and Javascript  , but also
 ### 👨‍💻 Programming languages
 
 <p>
-<img src="https://img.shields.io/badge/Java-fefefe?style=for-the-badge&logo=java&logoColor=ec0000"/> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />   <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=FFD43B" />
+<img src="https://img.shields.io/badge/Java-fefefe?style=for-the-badge&logo=java&logoColor=ec0000"/> <img src="https://img.shields.io/badge/c%23-%23239120.svg?logo=csharp&logoColor=white&color=5a4b96&style=flat-square" />  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />   <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=FFD43B" />
 </p>
 
 ### 👨🏽‍💻 Devops
