@@ -2,7 +2,7 @@
 
 ## Hi there, i'm Ousmane DIOP,  from Senegal 🇸🇳
 
-A fullstack web developer specializing in mostly Java and Javascript  , but also write Python and some other stuff.I'm always looking for new opportunities to learn and to solve new problems
+Consultant software engineer with a strong passion for DevOps. Dedicated to continuous learning, automation, and creating innovative solutions for optimal efficiency. I'm always looking for new opportunities to learn and to solve new problems
 
 
 
