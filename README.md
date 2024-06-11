@@ -31,7 +31,7 @@ Consultant software engineer with a strong passion for DevOps. Dedicated to cont
 ### 👨🏽‍💻 Devops
 
 <p>
-<img src="https://img.shields.io/badge/docker-fefefe?style=for-the-badge&logo=docker" /> <img src="https://img.shields.io/badge/Kubernetes-fefefe?style=for-the-badge&logo=Kubernetes" />  <img src="https://img.shields.io/badge/ansible-red?style=for-the-badge&logo=ansible" />  <img src="https://img.shields.io/badge/jenkins-white?style=for-the-badge&logo=jenkins" />
+<img src="https://img.shields.io/badge/docker-fefefe?style=for-the-badge&logo=docker" /> <img src="https://img.shields.io/badge/Kubernetes-fefefe?style=for-the-badge&logo=Kubernetes" /> <img src="https://img.shields.io/badge/jenkins-white?style=for-the-badge&logo=jenkins" /> <img src="https://img.shields.io/badge/ansible-red?style=for-the-badge&logo=ansible" />  <img src="https://img.shields.io/badge/sonarqube-fefefe?style=for-the-badge&logo=sonarqube" />
 
 </p>
 
