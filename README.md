@@ -48,8 +48,7 @@ Consultant software engineer with a strong passion for DevOps. Dedicated to cont
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ouznoreyni&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 -->
 
-    <br>
-    <br>
+
  <img align="right" alt="GIF" src="https://github.com/ouznoreyni/ouznoreyni/blob/main/code.gif?raw=true" width="500" height="320" />
   </p>
 
