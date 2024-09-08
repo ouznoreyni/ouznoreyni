@@ -31,7 +31,8 @@ It consultant with a strong passion for DevOps. Dedicated to continuous learning
 ### 👨🏽‍💻 Devops
 
 <p>
-<img src="https://img.shields.io/badge/docker-fefefe?style=for-the-badge&logo=docker" /> <img src="https://img.shields.io/badge/Kubernetes-fefefe?style=for-the-badge&logo=Kubernetes" /> <img src="https://img.shields.io/badge/jenkins-white?style=for-the-badge&logo=jenkins" /> <br/><img src="https://img.shields.io/badge/ansible-red?style=for-the-badge&logo=ansible" />  <img src="https://img.shields.io/badge/sonarqube-fefefe?style=for-the-badge&logo=sonarqube" /> <img src="https://img.shields.io/badge/sonatype nexus-black?style=for-the-badge&logo=sonatype" />
+<img src="https://img.shields.io/badge/docker-fefefe?style=for-the-badge&logo=docker" /> <img src="https://img.shields.io/badge/Kubernetes-fefefe?style=for-the-badge&logo=Kubernetes" /> <img src="https://img.shields.io/badge/jenkins-white?style=for-the-badge&logo=jenkins" /> <br/><img src="https://img.shields.io/badge/ansible-red?style=for-the-badge&logo=ansible" />  <img src="https://img.shields.io/badge/sonarqube-fefefe?style=for-the-badge&logo=sonarqube" /> <img src="https://img.shields.io/badge/sonatype nexus-black?style=for-the-badge&logo=sonatype" /> <br/>
+<img src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white" />
 
 </p>
 
