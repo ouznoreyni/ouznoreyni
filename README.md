@@ -28,6 +28,15 @@ It consultant with a strong passion for DevOps. Dedicated to continuous learning
 <img src="https://img.shields.io/badge/java-fefefe?style=for-the-badge&logo=java&logoColor=ec0000"/> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />   <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=FFD43B" />
 </p>
 
+### 🧰 Frameworks and libraries
+
+<p>
+ <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/> 
+<img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" /> 
+  <br/>
+  <img src="https://img.shields.io/badge/angular-red?style=for-the-badge&logo=angular&logoColor=white"/>  <img src="https://img.shields.io/badge/next.js-303030?style=for-the-badge&logo=next.js&logoColor=white"/>
+
+
 ### 👨🏽‍💻 Devops
 
 <p>
@@ -36,12 +45,6 @@ It consultant with a strong passion for DevOps. Dedicated to continuous learning
 
 </p>
 
-
-### 🧰 Frameworks and libraries
-
-<p>
- <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/> 
-<img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/angular-red?style=for-the-badge&logo=angular&logoColor=white"/>  <img src="https://img.shields.io/badge/next.js-303030?style=for-the-badge&logo=next.js&logoColor=white"/>
 
 
 <!-- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
