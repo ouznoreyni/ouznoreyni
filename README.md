@@ -2,7 +2,7 @@
 
 ## Hi there, i'm Ousmane DIOP,  from Senegal 🇸🇳
 
-Consultant software engineer with a strong passion for DevOps. Dedicated to continuous learning, automation, and creating innovative solutions for optimal efficiency. I'm always looking for new opportunities to learn and to solve new problems
+It consultant with a strong passion for DevOps. Dedicated to continuous learning, automation, and creating innovative solutions for optimal efficiency. I'm always looking for new opportunities to learn and to solve new problems
 
 
 
