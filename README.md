@@ -31,10 +31,7 @@ It consultant with a strong passion for DevOps. Dedicated to continuous learning
 ### 🧰 Frameworks and libraries
 
 <p>
- <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" /> 
-  <br/>
-  <img src="https://img.shields.io/badge/angular-red?style=for-the-badge&logo=angular&logoColor=white"/>  <img src="https://img.shields.io/badge/next.js-303030?style=for-the-badge&logo=next.js&logoColor=white"/>
+ <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/angular-red?style=for-the-badge&logo=angular&logoColor=white"/>  <img src="https://img.shields.io/badge/next.js-303030?style=for-the-badge&logo=next.js&logoColor=white"/>
 
 
 ### 👨🏽‍💻 Devops
